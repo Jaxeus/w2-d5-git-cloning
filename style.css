@@ -5,6 +5,10 @@
   font-family: sans-serif;
 }
 
+body {
+  background-color: lightgoldenrodyellow;
+}
+
 h1 {
   margin: 30px 0 30px 50px;
   color: rebeccapurple;
